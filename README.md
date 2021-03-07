@@ -2,7 +2,7 @@
  
 I have logged my weekly driving mileage for just over a year. The goal was to use the data for an introductory project of time seies ideas and applications. During the time frame of collecting data, the Covid-19 pandemic started. This provided a unique opportunity to not only explore a time series dataset, but analyze the effect of exogenous factors on a time series. 
 
-The data span from August 12, 2019 to December 13, 2020. Data are collected evey Monday. The data represent the mileage driven over the previous seven days, e.g. Monday to Sunday. Therefore, the first observation is dated August 19, 2019, which accounts for the week of August 12, 2019 to August 18, 2019, and the last observation is December 14, 2020, which accounts for the week of December 7, 2020 to December 13, 2020. 
+The data span from August 12, 2019 to December 13, 2020. Data are collected evey Monday. The data represent the mileage driven over the previous seven days, e.g. Monday to Sunday. Therefore, the first observation is dated Monday, August 19, 2019, which accounts for the week of Monday, August 12, 2019 to Sunday, August 18, 2019, and the last observation is Monday, December 14, 2020, which accounts for the week of Monday, December 7, 2020 to Sunday, December 13, 2020. 
 
 [This analysis](https://github.com/Mike-Jarmola/Driving_Mileage/blob/main/Mileage_Analysis.ipynb) steps through a data science time series project by:
 
