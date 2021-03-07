@@ -4,11 +4,18 @@ I have logged my weekly driving mileage for just over a year. The goal was to us
 
 The data span from August 12, 2019 to December 13, 2020. Data are collected evey Monday. The data represent the mileage driven over the previous seven days, e.g. Monday to Sunday. Therefore, the first observation is dated August 19, 2019, which accounts for the week of August 12, 2019 to August 18, 2019, and the last observation is December 14, 2020, which accounts for the week of December 7, 2020 to December 13, 2020. 
 
-[This analysis](https://github.com/Mike-Jarmola/Does_Bobby_Flay_Always_Win/blob/master/Does_Bobby_Flay_Always_Win_Analysis.ipynb) proves that Bobby is beatable. Not only beatable, but we identify Bobby's strengths and weakness, from which dishes defeat Bobby to which Guests and Judges have strong records against Bobby. 
+[This analysis](https://github.com/Mike-Jarmola/Driving_Mileage/blob/main/Mileage_Analysis.ipynb) steps through a data science time series project by:
 
- This project is an attempt to combine my two hobbies, eating and data science. I welcome any feedback and comments!
- 
- The data are collected from [Beat Bobby Flay Wikipedia website](https://en.wikipedia.org/wiki/Beat_Bobby_Flay). We look at seasons 1 - 24. As of this writing, season 24 is the most recent complete season; thus, we stop the analysis here. 
+1) Identifying and imputing missing values
+2) Testing stationarity
+3) Analyzing Autocorrelation and Partial Autocorrelation charts
+4) Estimating an ARIMA model
+5) Accounting for exogenous effects
+
+We find that the Covid-19 pandemic and if I travel outside my metro area account more for my driving mileage that mileage driven in previous weeks. 
+
+Thank you for reading, and I welcome any feedback and comments!
+
  
  
 
