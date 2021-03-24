@@ -12,7 +12,7 @@ The data span from August 12, 2019 to December 13, 2020. Data are collected evey
 4) Estimating an ARIMA model
 5) Accounting for exogenous effects
 
-We find that the Covid-19 pandemic and if I travel outside my Minneapolis/St. Paul metro area account more for my driving mileage than mileage driven in previous weeks. 
+We find that the Covid-19 pandemic and traveling outside my Minneapolis/St. Paul metro area account more for my driving mileage than mileage driven in previous weeks. 
 
 Thank you for reading, and I welcome any feedback and comments!
 
